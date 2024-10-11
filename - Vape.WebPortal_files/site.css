@@ -1,0 +1,54 @@
+﻿body {
+    padding-top: 80px;
+    padding-bottom: 20px;
+    background-color: white !important;
+}
+
+body {
+    background-color: white;
+}
+
+.form-group {
+    padding-bottom: 7px;
+    margin: 0px 0 0 0;
+}
+
+.btn {
+    margin: 0 1px;
+}
+
+.checkbox-column {
+    width: 60px;
+    text-align:center;
+    /*padding: 10px;*/
+}
+
+.table-centered td {
+    text-align: center;   
+    vertical-align: middle !important;
+}
+
+.selectize-dropdown {
+    z-index: 9999999;
+    background-color: white;
+}
+
+    .selectize-dropdown.form-control {
+        height: auto;
+    }
+
+.selectize-dropdown-content {
+    background-color: white;
+}
+
+.selectize-control.single .selectize-input.dropdown-active:after {
+    right: 1px;
+}
+
+.selectize-control.single .selectize-input:after, .selectize-control.multi .selectize-input:after, .selectize-control.single .selectize-input.input-active:after, .selectize-control.multi .selectize-input.input-active:after {
+    right: 1px;
+}
+
+.selectize-control.form-control {
+    height: auto;
+}
